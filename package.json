@@ -1,0 +1,26 @@
+{
+  "name": "jest-unit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soroushatarod/jest-unit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soroushatarod/jest-unit/issues"
+  },
+  "homepage": "https://github.com/soroushatarod/jest-unit#readme",
+  "devDependencies": {
+    "aws-sdk-mock": "^5.1.0",
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.755.0"
+  }
+}
